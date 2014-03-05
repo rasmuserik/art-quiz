@@ -1,6 +1,6 @@
 name: art-quiz
-title: Art Quiz
-tags: [app, prototype, hack4dk, touch friendly, dynamic layout, smk, statens museum for kunst]
+title: Årstalsquiz for kunstværker
+tags: [app, prototype, hack4dk, touch friendly, dynamic layout, smk, open content, statens museum for kunst, årstal]
 desc: "Hack4dk hackathon hack: touch friendly art quiz using open images from Statens Museum for Kunst"
 bower: {}
 phonegap: {}

@@ -1,4 +1,4 @@
-# Art Quiz 0.0.1
+# Årstalsquiz for kunstværker 0.0.2
 
 Hack4dk hackathon hack: touch friendly art quiz using open images from Statens Museum for Kunst
 
@@ -58,7 +58,7 @@ Hack4dk hackathon hack: touch friendly art quiz using open images from Statens M
       sleep 1, ->
         elem = document.getElementById("question")
         elem.innerHTML = jsonml2xml ["div",
-          ["h1", {class: "header"}, "When was"],
+          ["h1", {class: "header"}, "Hvornår var"],
           ["img", {src: image.src}],
           ["div", {class: "control"},
             slider(),

@@ -122,7 +122,7 @@
         "div", [
           "h1", {
             "class": "header"
-          }, "When was"
+          }, "Hvornår var"
         ], [
           "img", {
             src: image.src

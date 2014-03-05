@@ -1,6 +1,6 @@
 {
   "name": "art-quiz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hack4dk hackathon hack: touch friendly art quiz using open images from Statens Museum for Kunst",
   "keywords": [
     "app",
@@ -9,7 +9,9 @@
     "touch friendly",
     "dynamic layout",
     "smk",
-    "statens museum for kunst"
+    "open content",
+    "statens museum for kunst",
+    "årstal"
   ],
   "repository": {
     "type": "git",

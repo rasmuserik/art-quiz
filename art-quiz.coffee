@@ -51,7 +51,7 @@ showQuestion = (image) -> #{{{2
   sleep 1, ->
     elem = document.getElementById("question")
     elem.innerHTML = jsonml2xml ["div",
-      ["h1", {class: "header"}, "When was"],
+      ["h1", {class: "header"}, "Hvornår var"],
       ["img", {src: image.src}],
       ["div", {class: "control"},
         slider(),
