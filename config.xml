@@ -5,6 +5,7 @@
         version = "0.0.2">
 
     <name>Årstalsquiz for kunstværker</name>
+    <date>2013-09</date>
     <shortdescription>Gæt hvilket år kunstværket er skabt</shortdescription>
     <description>
       Hack4dk hackathon hack: touch-friendly art-quiz using open-content images from Statens Museum for Kunst.
